@@ -1,0 +1,5 @@
+<resources>
+    <color name="blue">#2196F3</color> <!-- Блакитний колір для кнопки -->
+    <color name="white">#FFFFFF</color> <!-- Білий колір для тексту -->
+    <color name="colorPrimary">#6200EE</color> <!-- Основний колір тулбара -->
+</resources>
